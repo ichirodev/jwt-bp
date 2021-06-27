@@ -1,1 +1,1 @@
-jwt-token-bp
+# JWT Token Blueprint
